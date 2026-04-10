@@ -95,13 +95,6 @@ This reflects core evaluation approaches used in CMS Innovation Center models an
 
 ---
 
-### 7. CMS-Style Policy Memo (RMarkdown)
-- Generates a PDF executive summary of findings  
-- Translates analytic outputs into policy-relevant insights  
-- Demonstrates communication typical of CMS rulemaking and advisory work  
-
----
-
 ## Purpose
 This project reflects the full lifecycle of CMS-style analytics:
 - Claims data engineering  
